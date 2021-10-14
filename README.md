@@ -1,0 +1,2 @@
+# MIP
+mip grafika
